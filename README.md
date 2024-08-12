@@ -11,7 +11,7 @@
 ---
 
 ## 🔥 News
-* **`2024.08.12`** 🌟 We are very proud to launch VITA, the **First-Ever** open-source interactive omni multimodal LLM! All training code, deployment code, and model weights will be released soon! **We have submitted the open-source code, yet it is under review internally. We are moving the process forward as quickly as possible, stay tuned!**
+* **`2024.08.12`** 🌟 We are very proud to launch VITA, the first-ever open-source interactive omni multimodal LLM. All training code, deployment code, and model weights will be released soon! **We have submitted the open-source code, yet it is under review internally. We are moving the process forward as quickly as possible, stay tuned!**
 
 
 ## 👀 VITA Overview
@@ -32,7 +32,6 @@ VITA is capable of processing inputs in the form of pure text/audio, as well as 
 <p align="center">
     <img src="./asset/VITA_duplex.png" width="88%" height="88%">
 </p>
-
 
 
 ## 📈 Experimental Results
